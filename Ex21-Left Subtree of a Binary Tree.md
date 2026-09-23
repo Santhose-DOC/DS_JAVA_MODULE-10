@@ -26,7 +26,7 @@ To design and implement a java program that constructs a binary tree from given 
 7. Stop the program.
 
 ## Program:
-```
+```java
 /*
 Program to constructs a binary tree from given level order input and counts the number of nodes 
 Developed by: SANTHOSE AROCKIRAJ J
