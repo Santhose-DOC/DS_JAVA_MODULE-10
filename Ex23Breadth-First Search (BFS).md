@@ -19,7 +19,7 @@ To design and implement a java program to perform Breadth-First Search (BFS) tra
 
 
 ## Program:
-```
+```java
 /*
 Program to perform Breadth-First Search (BFS) traversal on a city’s junction map represented as a graph
 Developed by: SANTHOSE AROCKIRAJ J
